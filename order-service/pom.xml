@@ -65,6 +65,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>order-service-aws</finalName>
 	</build>
 
 </project>
